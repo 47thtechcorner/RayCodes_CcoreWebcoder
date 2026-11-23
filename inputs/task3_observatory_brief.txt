@@ -1,0 +1,2 @@
+Give After Dark, a rooftop observatory lounge, an interactive web experience with stargazing schedules, filterable telescope tiers (Planetary, Deep Space, Lunar), and an interactive reservation modal. Ensure responsive layouts for 390px mobile and 1440px desktop with styled fallback assets.
+
